@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "92d64918d82fc9ec",
+    "id": "002dbe47df46e19e",
     "type": "split",
     "children": [
       {
-        "id": "88d30f5685784ec8",
+        "id": "a6bea185864f2db4",
         "type": "tabs",
         "children": [
           {
-            "id": "728887e1a0636f46",
+            "id": "21c837397af6795e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "egzotech/vpn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "751af02456cd3f34",
+    "id": "df92e57bcc4688bc",
     "type": "split",
     "children": [
       {
-        "id": "7bc54e3336f81edf",
+        "id": "2a5cc558d69db850",
         "type": "tabs",
         "children": [
           {
-            "id": "51e5f5b84f3c5373",
+            "id": "71b3987b8149d545",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "3c64e4c2b5eefb09",
+            "id": "64fd0db4732de526",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "b0205fba6c22f36f",
+            "id": "9c62a1d7e1fa298c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "67416984cb9973c9",
+    "id": "30120ecea8bd1df0",
     "type": "split",
     "children": [
       {
-        "id": "a8eda8475f9facff",
+        "id": "f48134dcd2876da8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5af1f2f4b2de1f3",
+            "id": "d1dfe5cf89c6de76",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "egzotech/vpn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "6a12ae990989d3e7",
+            "id": "13d632fd77ca446c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "egzotech/vpn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b248ad29d8a1974b",
+            "id": "196fb7248bddd779",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "7f2557a4240dbb53",
+            "id": "fba1b5bbffce71a0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "egzotech/vpn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,25 +130,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "51e5f5b84f3c5373",
+  "active": "71b3987b8149d545",
   "lastOpenFiles": [
-    "cheat-sheets/winget.md",
-    "cheat-sheets/windows-terminal.md",
-    "cheat-sheets/environment-variables-in-windows.md",
-    "cheat-sheets/wsl.md",
-    "cheat-sheets/terraform.md",
-    "cheat-sheets/git.md",
-    "cheat-sheets/twistet-pair-cables.md",
-    "cheat-sheets/ssl-certificate.md",
-    "cheat-sheets/markdown.md",
-    "cheat-sheets/http-status-codes.md"
+    "Bez nazwy.canvas"
   ]
 }
