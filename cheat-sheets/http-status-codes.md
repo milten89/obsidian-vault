@@ -1,4 +1,5 @@
 # HTTP Status Codes
+
 ## Categories
 -   **1XX** status codes: Informational Requests
 -   **2XX** status codes: Successful Requests
@@ -7,6 +8,7 @@
 -   **5XX** status codes: Server Errors
 
 ## Complete List
+
 Code | Name | Description
 ---|---|---
 100|Continue|Everything so far is OK and that the client should continue with the request or ignore it if it is already finished.
